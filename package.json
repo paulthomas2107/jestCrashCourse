@@ -1,0 +1,23 @@
+{
+  "name": "jestCrashCourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulthomas2107/jestCrashCourse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulthomas2107/jestCrashCourse/issues"
+  },
+  "homepage": "https://github.com/paulthomas2107/jestCrashCourse#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
